@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
+body {
+    font-family: "Roboto";
+    background-color: "fff";
+}
+.main {
+    height: 50%;
+}
+.img {
+    width: 75%;
+}
+.header {
+    width: 75%;
+    margin: 50px auto;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
+.failedMsg {
+    color: gray;
+}
+.btn {
+    color: blue;
+}
