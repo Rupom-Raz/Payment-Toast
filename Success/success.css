@@ -3,6 +3,10 @@
     font-family: "Roboto";
     text-align: center;
 }
+.head {
+    animation: backInLeft;
+    animation-duration: 2s;
+}
 .thanksMsg {
     text-align: center;
     color: gray;
