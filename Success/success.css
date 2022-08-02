@@ -10,6 +10,7 @@
 .thanksMsg {
     text-align: center;
     color: gray;
+    text-transform: capitalize;
 }
 
 .btn {
